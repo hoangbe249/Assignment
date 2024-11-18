@@ -1,0 +1,2080 @@
+fileFormatVersion: 2
+guid: 1aca263db4593c144935ac52290ac3dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4766238713628918214
+    second: kisspng-sprite-explosion_0
+  - first:
+      213: -8809692801729765836
+    second: kisspng-sprite-explosion_1
+  - first:
+      213: 414265070534126181
+    second: kisspng-sprite-explosion_2
+  - first:
+      213: 3255559462571328041
+    second: kisspng-sprite-explosion_3
+  - first:
+      213: 2310746473095907113
+    second: kisspng-sprite-explosion_4
+  - first:
+      213: 2758964959077480650
+    second: kisspng-sprite-explosion_5
+  - first:
+      213: -3410358434411605642
+    second: kisspng-sprite-explosion_6
+  - first:
+      213: 2880438925773208102
+    second: kisspng-sprite-explosion_7
+  - first:
+      213: 7943471295239282039
+    second: kisspng-sprite-explosion_8
+  - first:
+      213: -954890773345481522
+    second: kisspng-sprite-explosion_9
+  - first:
+      213: 651523137398221831
+    second: kisspng-sprite-explosion_10
+  - first:
+      213: 7814736719186559158
+    second: kisspng-sprite-explosion_11
+  - first:
+      213: 1464496032241832296
+    second: kisspng-sprite-explosion_12
+  - first:
+      213: -5259394055390211625
+    second: kisspng-sprite-explosion_13
+  - first:
+      213: -6972515574639853091
+    second: kisspng-sprite-explosion_14
+  - first:
+      213: -8799640613058468633
+    second: kisspng-sprite-explosion_15
+  - first:
+      213: 8536107050196849098
+    second: kisspng-sprite-explosion_16
+  - first:
+      213: 8957887143003072510
+    second: kisspng-sprite-explosion_17
+  - first:
+      213: 4261820602664935402
+    second: kisspng-sprite-explosion_18
+  - first:
+      213: 6648829290218293237
+    second: kisspng-sprite-explosion_19
+  - first:
+      213: 6257480418828450892
+    second: kisspng-sprite-explosion_20
+  - first:
+      213: 2574566486375184894
+    second: kisspng-sprite-explosion_21
+  - first:
+      213: 6936708810892496296
+    second: kisspng-sprite-explosion_22
+  - first:
+      213: 8238768496473460541
+    second: kisspng-sprite-explosion_23
+  - first:
+      213: 1300674741206974611
+    second: kisspng-sprite-explosion_24
+  - first:
+      213: 3180719806881613949
+    second: kisspng-sprite-explosion_25
+  - first:
+      213: -7233511981449838532
+    second: kisspng-sprite-explosion_26
+  - first:
+      213: -3438951894516801700
+    second: kisspng-sprite-explosion_27
+  - first:
+      213: -6143909303806681891
+    second: kisspng-sprite-explosion_28
+  - first:
+      213: -7151023590353729871
+    second: kisspng-sprite-explosion_29
+  - first:
+      213: 1602743286953537020
+    second: kisspng-sprite-explosion_30
+  - first:
+      213: -4622577940932317160
+    second: kisspng-sprite-explosion_31
+  - first:
+      213: -347228797715416329
+    second: kisspng-sprite-explosion_32
+  - first:
+      213: -3594407938687089590
+    second: kisspng-sprite-explosion_33
+  - first:
+      213: 8116721734946605906
+    second: kisspng-sprite-explosion_34
+  - first:
+      213: -5143709808572514993
+    second: kisspng-sprite-explosion_35
+  - first:
+      213: 4784984793782252806
+    second: kisspng-sprite-explosion_36
+  - first:
+      213: 3064077838828344511
+    second: kisspng-sprite-explosion_37
+  - first:
+      213: -6306990286000521270
+    second: kisspng-sprite-explosion_38
+  - first:
+      213: -2860813405497989638
+    second: kisspng-sprite-explosion_39
+  - first:
+      213: 8342741650340914543
+    second: kisspng-sprite-explosion_40
+  - first:
+      213: 6431951725751587020
+    second: kisspng-sprite-explosion_41
+  - first:
+      213: -8827018931667578548
+    second: kisspng-sprite-explosion_42
+  - first:
+      213: -6414284974418388834
+    second: kisspng-sprite-explosion_43
+  - first:
+      213: -6974807714816394284
+    second: kisspng-sprite-explosion_44
+  - first:
+      213: -8804279625537337020
+    second: kisspng-sprite-explosion_45
+  - first:
+      213: -7975580136107271803
+    second: kisspng-sprite-explosion_46
+  - first:
+      213: -3903766763730852880
+    second: kisspng-sprite-explosion_47
+  - first:
+      213: -4893516799692905219
+    second: kisspng-sprite-explosion_48
+  - first:
+      213: -3931328457013307229
+    second: kisspng-sprite-explosion_49
+  - first:
+      213: 4843482813575661932
+    second: kisspng-sprite-explosion_50
+  - first:
+      213: 3182816706552743502
+    second: kisspng-sprite-explosion_51
+  - first:
+      213: 7788355063104749633
+    second: kisspng-sprite-explosion_52
+  - first:
+      213: 5306451705648791162
+    second: kisspng-sprite-explosion_53
+  - first:
+      213: 5562691224082212812
+    second: kisspng-sprite-explosion_54
+  - first:
+      213: 6196402077956689391
+    second: kisspng-sprite-explosion_55
+  - first:
+      213: -7313127988655996162
+    second: kisspng-sprite-explosion_56
+  - first:
+      213: -8505958379740573448
+    second: kisspng-sprite-explosion_57
+  - first:
+      213: -5828705293464794770
+    second: kisspng-sprite-explosion_58
+  - first:
+      213: -1238631305064209362
+    second: kisspng-sprite-explosion_59
+  - first:
+      213: 7636380830976526310
+    second: kisspng-sprite-explosion_60
+  - first:
+      213: -8005057017403779398
+    second: kisspng-sprite-explosion_61
+  - first:
+      213: -4201468329892363471
+    second: kisspng-sprite-explosion_62
+  - first:
+      213: -4029416944050371456
+    second: kisspng-sprite-explosion_63
+  - first:
+      213: 5674403869121576080
+    second: kisspng-sprite-explosion_64
+  - first:
+      213: -3930991587999267466
+    second: kisspng-sprite-explosion_65
+  - first:
+      213: -7980282163015363147
+    second: kisspng-sprite-explosion_66
+  - first:
+      213: 4611468302473362999
+    second: kisspng-sprite-explosion_67
+  - first:
+      213: 4753577273878999300
+    second: kisspng-sprite-explosion_68
+  - first:
+      213: 6732449169716108227
+    second: kisspng-sprite-explosion_69
+  - first:
+      213: -4056732740019965727
+    second: kisspng-sprite-explosion_70
+  - first:
+      213: -7287591416451469433
+    second: kisspng-sprite-explosion_71
+  - first:
+      213: -2932818311824945353
+    second: kisspng-sprite-explosion_72
+  - first:
+      213: -8582517615324734514
+    second: kisspng-sprite-explosion_73
+  - first:
+      213: 3557843817537696030
+    second: kisspng-sprite-explosion_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1244
+        width: 144
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c101908bd4152240800000000000000
+      internalID: 4766238713628918214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_1
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1244
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ed494921fadb580800000000000000
+      internalID: -8809692801729765836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_2
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1243
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56ae90403e3cfb500800000000000000
+      internalID: 414265070534126181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1243
+        width: 148
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 922c9bf15121e2d20800000000000000
+      internalID: 3255559462571328041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_4
+      rect:
+        serializedVersion: 2
+        x: 1017
+        y: 1243
+        width: 148
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9274ed6acab611020800000000000000
+      internalID: 2310746473095907113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_5
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 1243
+        width: 149
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8309d3300d94620800000000000000
+      internalID: 2758964959077480650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_6
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 1242
+        width: 151
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6719320a219fba0d0800000000000000
+      internalID: -3410358434411605642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_7
+      rect:
+        serializedVersion: 2
+        x: 1730
+        y: 1242
+        width: 160
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a7be711ff59f720800000000000000
+      internalID: 2880438925773208102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_8
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 997
+        width: 172
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ddf348e01ec3e60800000000000000
+      internalID: 7943471295239282039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_9
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 993
+        width: 181
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccc17f96eb8fb2f0800000000000000
+      internalID: -954890773345481522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_10
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 989
+        width: 189
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ca19f67dcaa0900800000000000000
+      internalID: 651523137398221831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_11
+      rect:
+        serializedVersion: 2
+        x: 747
+        y: 986
+        width: 195
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b0015054a5837c60800000000000000
+      internalID: 7814736719186559158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_12
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 983
+        width: 201
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8615eb0d16fe25410800000000000000
+      internalID: 1464496032241832296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_13
+      rect:
+        serializedVersion: 2
+        x: 1221
+        y: 981
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d15aaad8f0e207b0800000000000000
+      internalID: -5259394055390211625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_14
+      rect:
+        serializedVersion: 2
+        x: 1458
+        y: 979
+        width: 209
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd186bed606ac3f90800000000000000
+      internalID: -6972515574639853091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_15
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 977
+        width: 214
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4ac832c7561e580800000000000000
+      internalID: -8799640613058468633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_16
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 735
+        width: 216
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1d0bbc228567670800000000000000
+      internalID: 8536107050196849098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_17
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 939
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef7acb845eec05c70800000000000000
+      internalID: 8957887143003072510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_18
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 733
+        width: 218
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aefd84e0247052b30800000000000000
+      internalID: 4261820602664935402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_19
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 732
+        width: 221
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f78caf2303654c50800000000000000
+      internalID: 6648829290218293237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_20
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 731
+        width: 223
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c7b31994907d650800000000000000
+      internalID: 6257480418828450892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_21
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 730
+        width: 224
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9b4072492bab320800000000000000
+      internalID: 2574566486375184894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_22
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 730
+        width: 224
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adc19749e3244060800000000000000
+      internalID: 6936708810892496296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_23
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 729
+        width: 225
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fcaf2fb4cf55270800000000000000
+      internalID: 8238768496473460541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_24
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 729
+        width: 225
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39007fd29ccec0210800000000000000
+      internalID: 1300674741206974611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 488
+        width: 227
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d784a3befcf242c20800000000000000
+      internalID: 3180719806881613949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_26
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 487
+        width: 229
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30862b7d276d9b90800000000000000
+      internalID: -7233511981449838532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_27
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 487
+        width: 229
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f5ba7e8736640d0800000000000000
+      internalID: -3438951894516801700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_28
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 487
+        width: 230
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc926e3a037cbaa0800000000000000
+      internalID: -6143909303806681891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_29
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 486
+        width: 231
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6078caee572cc90800000000000000
+      internalID: -7151023590353729871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_30
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 485
+        width: 233
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfde10d17861e3610800000000000000
+      internalID: 1602743286953537020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_31
+      rect:
+        serializedVersion: 2
+        x: 1442
+        y: 485
+        width: 237
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8103c2caadd49dfb0800000000000000
+      internalID: -4622577940932317160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_32
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 485
+        width: 238
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faf2688f356e2bf0800000000000000
+      internalID: -347228797715416329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 244
+        width: 239
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4446b416091e1ec0800000000000000
+      internalID: -3594407938687089590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_34
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 244
+        width: 239
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b4f28e96364a070800000000000000
+      internalID: 8116721734946605906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_35
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 243
+        width: 240
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4db7508e2fdd98b0800000000000000
+      internalID: -5143709808572514993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_36
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 243
+        width: 236
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6057909615ea76240800000000000000
+      internalID: 4784984793782252806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_37
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 244
+        width: 237
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4928b6f8ac58a20800000000000000
+      internalID: 3064077838828344511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_38
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 252
+        width: 238
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf791130c11978a0800000000000000
+      internalID: -6306990286000521270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_39
+      rect:
+        serializedVersion: 2
+        x: 1449
+        y: 253
+        width: 229
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5ed9c6d595c48d0800000000000000
+      internalID: -2860813405497989638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_40
+      rect:
+        serializedVersion: 2
+        x: 1702
+        y: 254
+        width: 216
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f652d69445f57c370800000000000000
+      internalID: 8342741650340914543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_41
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 18
+        width: 206
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc052e14402e24950800000000000000
+      internalID: 6431951725751587020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_42
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 28
+        width: 204
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c415e489c01208580800000000000000
+      internalID: -8827018931667578548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_43
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 28
+        width: 199
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e989aa3dcc1ebf6a0800000000000000
+      internalID: -6414284974418388834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_44
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 29
+        width: 181
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dbf6b56651843f90800000000000000
+      internalID: -6974807714816394284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_45
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 186
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44943a0e35ae0d580800000000000000
+      internalID: -8804279625537337020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_46
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 32
+        width: 175
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5891aa56f1c015190800000000000000
+      internalID: -7975580136107271803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_47
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 187
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3a8d9bfc803d9c0800000000000000
+      internalID: -3903766763730852880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_48
+      rect:
+        serializedVersion: 2
+        x: 1251
+        y: 35
+        width: 175
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4e5ebc56cb61cb0800000000000000
+      internalID: -4893516799692905219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_49
+      rect:
+        serializedVersion: 2
+        x: 1486
+        y: 189
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a85650f89d1179c0800000000000000
+      internalID: -3931328457013307229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_50
+      rect:
+        serializedVersion: 2
+        x: 1530
+        y: 136
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6903e205f1873340800000000000000
+      internalID: 4843482813575661932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_51
+      rect:
+        serializedVersion: 2
+        x: 1725
+        y: 190
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46414b6ee2ab2c20800000000000000
+      internalID: 3182816706552743502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_52
+      rect:
+        serializedVersion: 2
+        x: 1518
+        y: 179
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14049f85aabc51c60800000000000000
+      internalID: 7788355063104749633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_53
+      rect:
+        serializedVersion: 2
+        x: 1589
+        y: 172
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7e36f426bd44a940800000000000000
+      internalID: 5306451705648791162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_54
+      rect:
+        serializedVersion: 2
+        x: 1757
+        y: 181
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc76a962236a23d40800000000000000
+      internalID: 5562691224082212812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_55
+      rect:
+        serializedVersion: 2
+        x: 1772
+        y: 137
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fedc9162cda0ef550800000000000000
+      internalID: 6196402077956689391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_56
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 144
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2413747dc828a90800000000000000
+      internalID: -7313127988655996162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_57
+      rect:
+        serializedVersion: 2
+        x: 1825
+        y: 172
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f05e4d8be3c4f980800000000000000
+      internalID: -8505958379740573448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_58
+      rect:
+        serializedVersion: 2
+        x: 1507
+        y: 67
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69879ada674c1fa0800000000000000
+      internalID: -5828705293464794770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_59
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 133
+        width: 43
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2428fdf36f7fcee0800000000000000
+      internalID: -1238631305064209362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_60
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 88
+        width: 90
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e745ff08efd9f960800000000000000
+      internalID: 7636380830976526310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_61
+      rect:
+        serializedVersion: 2
+        x: 1790
+        y: 136
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab656e62e0358e090800000000000000
+      internalID: -8005057017403779398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_62
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 98
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13346b570d261b5c0800000000000000
+      internalID: -4201468329892363471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_63
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 112
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08400fd53a2a418c0800000000000000
+      internalID: -4029416944050371456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_64
+      rect:
+        serializedVersion: 2
+        x: 1610
+        y: 108
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09cf71331488fbe40800000000000000
+      internalID: 5674403869121576080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_65
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 83
+        width: 28
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675414e5aff4279c0800000000000000
+      internalID: -3930991587999267466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_66
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 112
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b5551277a7504190800000000000000
+      internalID: -7980282163015363147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_67
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 99
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73ef5ed0df93fff30800000000000000
+      internalID: 4611468302473362999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_68
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 87
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4017de5585918f140800000000000000
+      internalID: 4753577273878999300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_69
+      rect:
+        serializedVersion: 2
+        x: 1615
+        y: 90
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb5d4d89d67e6d50800000000000000
+      internalID: 6732449169716108227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_70
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 76
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0b962011793b7c0800000000000000
+      internalID: -4056732740019965727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_71
+      rect:
+        serializedVersion: 2
+        x: 1755
+        y: 70
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f6932d7364dda90800000000000000
+      internalID: -7287591416451469433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_72
+      rect:
+        serializedVersion: 2
+        x: 1864
+        y: 76
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fc9ecb8498c47d0800000000000000
+      internalID: -2932818311824945353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_73
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 37
+        width: 43
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecb590473b5c4e880800000000000000
+      internalID: -8582517615324734514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-sprite-explosion_74
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 44
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1177ae0a10006130800000000000000
+      internalID: 3557843817537696030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6bc7002fffba097438ea52f919e86a16
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      kisspng-sprite-explosion_0: 4766238713628918214
+      kisspng-sprite-explosion_1: -8809692801729765836
+      kisspng-sprite-explosion_10: 651523137398221831
+      kisspng-sprite-explosion_11: 7814736719186559158
+      kisspng-sprite-explosion_12: 1464496032241832296
+      kisspng-sprite-explosion_13: -5259394055390211625
+      kisspng-sprite-explosion_14: -6972515574639853091
+      kisspng-sprite-explosion_15: -8799640613058468633
+      kisspng-sprite-explosion_16: 8536107050196849098
+      kisspng-sprite-explosion_17: 8957887143003072510
+      kisspng-sprite-explosion_18: 4261820602664935402
+      kisspng-sprite-explosion_19: 6648829290218293237
+      kisspng-sprite-explosion_2: 414265070534126181
+      kisspng-sprite-explosion_20: 6257480418828450892
+      kisspng-sprite-explosion_21: 2574566486375184894
+      kisspng-sprite-explosion_22: 6936708810892496296
+      kisspng-sprite-explosion_23: 8238768496473460541
+      kisspng-sprite-explosion_24: 1300674741206974611
+      kisspng-sprite-explosion_25: 3180719806881613949
+      kisspng-sprite-explosion_26: -7233511981449838532
+      kisspng-sprite-explosion_27: -3438951894516801700
+      kisspng-sprite-explosion_28: -6143909303806681891
+      kisspng-sprite-explosion_29: -7151023590353729871
+      kisspng-sprite-explosion_3: 3255559462571328041
+      kisspng-sprite-explosion_30: 1602743286953537020
+      kisspng-sprite-explosion_31: -4622577940932317160
+      kisspng-sprite-explosion_32: -347228797715416329
+      kisspng-sprite-explosion_33: -3594407938687089590
+      kisspng-sprite-explosion_34: 8116721734946605906
+      kisspng-sprite-explosion_35: -5143709808572514993
+      kisspng-sprite-explosion_36: 4784984793782252806
+      kisspng-sprite-explosion_37: 3064077838828344511
+      kisspng-sprite-explosion_38: -6306990286000521270
+      kisspng-sprite-explosion_39: -2860813405497989638
+      kisspng-sprite-explosion_4: 2310746473095907113
+      kisspng-sprite-explosion_40: 8342741650340914543
+      kisspng-sprite-explosion_41: 6431951725751587020
+      kisspng-sprite-explosion_42: -8827018931667578548
+      kisspng-sprite-explosion_43: -6414284974418388834
+      kisspng-sprite-explosion_44: -6974807714816394284
+      kisspng-sprite-explosion_45: -8804279625537337020
+      kisspng-sprite-explosion_46: -7975580136107271803
+      kisspng-sprite-explosion_47: -3903766763730852880
+      kisspng-sprite-explosion_48: -4893516799692905219
+      kisspng-sprite-explosion_49: -3931328457013307229
+      kisspng-sprite-explosion_5: 2758964959077480650
+      kisspng-sprite-explosion_50: 4843482813575661932
+      kisspng-sprite-explosion_51: 3182816706552743502
+      kisspng-sprite-explosion_52: 7788355063104749633
+      kisspng-sprite-explosion_53: 5306451705648791162
+      kisspng-sprite-explosion_54: 5562691224082212812
+      kisspng-sprite-explosion_55: 6196402077956689391
+      kisspng-sprite-explosion_56: -7313127988655996162
+      kisspng-sprite-explosion_57: -8505958379740573448
+      kisspng-sprite-explosion_58: -5828705293464794770
+      kisspng-sprite-explosion_59: -1238631305064209362
+      kisspng-sprite-explosion_6: -3410358434411605642
+      kisspng-sprite-explosion_60: 7636380830976526310
+      kisspng-sprite-explosion_61: -8005057017403779398
+      kisspng-sprite-explosion_62: -4201468329892363471
+      kisspng-sprite-explosion_63: -4029416944050371456
+      kisspng-sprite-explosion_64: 5674403869121576080
+      kisspng-sprite-explosion_65: -3930991587999267466
+      kisspng-sprite-explosion_66: -7980282163015363147
+      kisspng-sprite-explosion_67: 4611468302473362999
+      kisspng-sprite-explosion_68: 4753577273878999300
+      kisspng-sprite-explosion_69: 6732449169716108227
+      kisspng-sprite-explosion_7: 2880438925773208102
+      kisspng-sprite-explosion_70: -4056732740019965727
+      kisspng-sprite-explosion_71: -7287591416451469433
+      kisspng-sprite-explosion_72: -2932818311824945353
+      kisspng-sprite-explosion_73: -8582517615324734514
+      kisspng-sprite-explosion_74: 3557843817537696030
+      kisspng-sprite-explosion_8: 7943471295239282039
+      kisspng-sprite-explosion_9: -954890773345481522
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
